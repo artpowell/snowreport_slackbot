@@ -1,0 +1,10 @@
+.db
+.env
+.data/channels/
+.data/teams/
+.data/users/
+node_modules/
+backup/
+coverage/
+components/routes/_*
+.idea/
